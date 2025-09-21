@@ -13,7 +13,7 @@ A responsive web application that provides real-time weather information and a 5
 
 ## Screenshots
 
-![Weather Dashboard Screenshot](screenshot.png) <!-- Add a screenshot if available -->
+![Weather Dashboard Screenshot](image.png) <!-- Add a screenshot if available -->
 
 ## Getting Started
 
